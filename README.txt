@@ -19,4 +19,5 @@ sending...
 
 DISCLAIMER:
 
+Before using this code please read documentation for your SMS API provider. This code is not universal.
 I am not responsible for any damage that can be done by using this code.
